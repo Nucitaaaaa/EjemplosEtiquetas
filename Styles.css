@@ -61,6 +61,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
 }
 
 #ButtonHover {
@@ -81,6 +82,7 @@ html {
   width: 150px;
   font-size: 22px;
   border: solid 1px white;
+  border-radius: 10px;
 }
 
 #Button1:hover {
